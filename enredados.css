@@ -1,0 +1,58 @@
+body {
+  background-color: #f8dade;
+}
+.navbar-nav {
+  font-family: Arial;
+}
+footer {
+  background-color: #aaa;
+}
+.hero {
+  background: url(../imagenes/Imagen3.png);
+  background-size: cover;
+  height: 50vh;
+  min-height: 700px;
+  color: black;
+}
+h1 {
+  font-family: "Oranienbaum", serif;
+  color: black;
+  text-align: center;
+  font-size: 500%;
+}
+.ver-colección {
+  font-family: Arial, serif;
+  color: 248, 218, 222;
+  text-align-last: center;
+}
+h2 {
+  font-family: "Oranienbaum", serif;
+  color: black;
+  font-size: 300%;
+}
+.intro {
+  font-family: Arial;
+  font-size: large;
+  font-style: italic;
+  text-align: justify;
+}
+.Seguir-leyendo {
+  color: dimgray;
+}
+.nosotros {
+  float: left;
+}
+.asesoria1 {
+  font-family: Arial;
+  font-size: large;
+  font-style: italic;
+  text-align: left;
+}
+.carouselTitulos {
+  color: black;
+  font-size: 200%;
+}
+.descripcion {
+  color: black;
+  font-style: italic;
+}
